@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/toshi-toma-sandbox/express-server.git",
+  "author": "toshi-toma <toshitoma1217@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "node server/index.js"
+  }
+}
